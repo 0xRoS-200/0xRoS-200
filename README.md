@@ -25,8 +25,6 @@ Python and Full Stack Enthusiast!
           <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" />
         <br>Vercel
       </td>
-    </tr>
-    <tr>
       <td align="center" width="85">
           <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
         <br>FastAPI
