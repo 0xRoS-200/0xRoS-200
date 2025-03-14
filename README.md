@@ -13,7 +13,7 @@ Python and Full Stack Enthusiast!
 </div>
 
 ## 💻 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=cpp,c,css,html,js,nodejs,express,mongodb,netlify,vercel,npm,tailwind,py,blender,arch&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,css,html,js,nodejs,express,mongodb,netlify,vercel,npm,tailwind,py,blender)](https://skillicons.dev)
 </div>
 
 ## 📈 GitHub Statistics
