@@ -8,8 +8,9 @@
 Python and Full Stack Enthusiast!
 
 - 🔧 **Full Stack Development**
-  - Frontend: React, HTML, CSS
-  - Backend: Python, Node.js, C++
+  - Frontend: HTML, CSS, Tailwind
+  - Backend: Python, Node.js, C++, Express
+  - Database: MongoDB
 </div>
 
 ## 💻 Tech Stack
