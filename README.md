@@ -17,7 +17,7 @@ Python and Full Stack Enthusiast!
 ## 💻 Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,c,css,html,js,nodejs,express,mongodb,netlify,vercel,npm,tailwind,py,blender" />
+    <img src="https://skillicons.dev/icons?i=cpp,c,css,html,js,nodejs,express,mongodb,netlify,vercel,npm,tailwind,py,blender,react" />
   </a>
 </p>
 
