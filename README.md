@@ -24,7 +24,7 @@ Python and Full Stack Enthusiast!
 ## 📈 GitHub Statistics
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={0xRoS-200}&theme={gruvbox}"/>
+ <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=realpxd&theme=gruvbox" width="1050" alt="GitHub Profile Summary"></a>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xRoS-200&theme=radical&hide_border=true&background=0D1117"/>
 </div>
 
