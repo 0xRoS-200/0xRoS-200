@@ -24,7 +24,7 @@ Python and Full Stack Enthusiast!
 ## 📈 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xRoS-200&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={0xRoS-200}&theme={gruvbox}"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xRoS-200&theme=radical&hide_border=true&background=0D1117"/>
 </div>
 
