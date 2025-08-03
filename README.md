@@ -1,5 +1,8 @@
 <div align="center">
   <h1>👋 Hi, I'm Rohit Kumar SIngh</h1>
+  <div align = 'center">
+    <a href="https://storyset.com/technology">Technology illustrations by Storyset</a>
+    </div>
 </div>
 
 ## 🚀 Professional Overview
@@ -32,8 +35,8 @@ Python and Full Stack Enthusiast!
 
 <div style="font-size: 1.1em">
 
-- 💼 Open for collaboration on innovative projects, especially in AI and LLM development
+- 💼 Open for collaboration on innovative projects
 - 📫 Reach out for Full Stack, Data Engineering, or AI/ML opportunities
 - 🌱 Always learning and exploring new technologies, with focus on LLMs, GPT models, and conversational AI
 
-</div
+</div>
