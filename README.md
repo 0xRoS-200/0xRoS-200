@@ -97,15 +97,15 @@ me.say_hi()
 ```mermaid
 graph TD
     A[🤖 AI/ML Projects] --> B[LLM Integration]
-    A --> C[Conversational AI]
+    A --> C[AI Powered Full Stack Applications]
     D[🌐 Full Stack Apps] --> E[React + Node.js]
     D --> F[MongoDB Integration]
     G[📚 Learning] --> H[Advanced Python]
     G --> I[Cloud Technologies]
     
-    style A fill:#ff6b6b
-    style D fill:#4ecdc4
-    style G fill:#45b7d1
+    style A fill:#9929EA
+    style D fill:#CC66DA
+    style G fill:#F8F8F8
 ```
 
 </div>
@@ -145,16 +145,6 @@ graph TD
 <!-- This section can be auto-updated with your latest blog posts -->
 🔜 **Coming Soon:** Technical blogs about LLMs and Full Stack Development!
 <!-- BLOG-POST-LIST:END -->
-
----
-
-## 🎵 **Currently Jamming To**
-
-<div align="center">
-  
-  [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=YOUR_SPOTIFY_USERNAME&unique=true)](https://open.spotify.com/user/YOUR_SPOTIFY_USERNAME)
-  
-</div>
 
 ---
 
