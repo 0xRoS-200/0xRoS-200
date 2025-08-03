@@ -1,8 +1,8 @@
 <div align="center">
-  <h1>👋 Hi, I'm Rohit Kumar SIngh</h1>
-  <div align = 'center">
-    <a href="https://storyset.com/technology">Technology illustrations by Storyset</a>
-    </div>
+  <h1>👋 Hi, I'm Rohit Kumar Singh</h1>
+</div>
+<div align = 'center">
+  <a href="https://storyset.com/technology">Technology illustrations by Storyset</a>
 </div>
 
 ## 🚀 Professional Overview
